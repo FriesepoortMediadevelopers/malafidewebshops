@@ -25,7 +25,7 @@
       </div>
     </nav>
     <h1>Welkom bij de malafidewebshops van ITGO17AO</h1>
-    <footer class="page-footer font-small bg-dark pt-4">
+    <footer class="page-footer font-small bg-dark text-white pt-4">
         <div class="footer-copyright text-center py-3">© 2018 medemogelijk gemaakt door: 
             <a href="rocfriesepoort.nl">rocfriesepoort.nl</a>
         </div>
