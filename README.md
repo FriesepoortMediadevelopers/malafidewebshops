@@ -1,4 +1,4 @@
-# malafidewebshops
+# Malafide Webshops
 Overzicht maken van malafide webshops.
 Wie zitten er achter? Onderzoek SIDN
 Aangifte doen
